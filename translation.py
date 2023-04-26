@@ -40,11 +40,11 @@ Example:** `/api 17314dc708m0ed49fv97 `
 If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Pdiskpro** than **contact** at 👉 @Channelhubs (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @Api_Link_Converter_bot. I am Shortener Fly Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @PdiskPro_Link_Converter_Bot. I am Pdiskpro Link Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Shortnerfly** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **Pdiskpro** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -56,7 +56,7 @@ ABOUT_TEXT = '''**Hey! My name is @Api_Link_Converter_bot. I am Shortener Fly Li
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of ShortnerFly than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of PdiskPro Link Converter Bot than **contact** at 👉 @Channelhubs (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -65,7 +65,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/shortnerfly | Shortnerfly"""
+Ex: http://t.me/PdiskProlink | Pdiskprolink"""
 
 
 ADMINS_MESSAGE = """
@@ -96,7 +96,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://ShortnerFly.com/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://pdisk.pro/pages/api/')
     ]
 ])
 
@@ -110,7 +110,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://shortnerfly/ref/rngharman)
+- Website: [{base_site}](https://pdisk.pro/free1731.html)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
@@ -131,7 +131,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://shortnerfly/ref/rngharman)
+Get API From [{base_site}](https://pdisk.pro/free1731.html)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -149,18 +149,18 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Harman, I am shortnerfly.com, Bulk Link Converter Bot From Linked shortnerfly.com Account,**
+USERNAME_TEXT = """**Hello channelhubs, I am pdisk.pro, Bulk Link Converter Bot From Linked pdisk.pro Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @shortnerfly
+/channel @channelhubs
 Or
-/channel https://t.me/shortnerfly
+/channel https://t.me/channelhubs
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @cyniteofficial For More Help -**"""
+**- Message @channelhubs For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
