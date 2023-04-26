@@ -3,44 +3,44 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am ShortnerFly.com, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am pdisk.pro, Bulk Link Converter. I Can Convert Links Directly From Your pdiskpro Account,
     
-1. Go To 👉 https://ShortnerFly.com/member/tools/api  
+1. Go To 👉 https://pdisk.pro/pages/api/  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api 17314dc708m0ed49fv97 `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Shortnerfly than **contact** at 👉 @Cyniteofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of Pdiskpro than **contact** at 👉 @channelhubs (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From Your ShortnerFly Account,**
+I Am pdiskpro, Bulk Link Converter Bot. I Can Convert Links Directly From Your pdiskpro Account,**
     
-1. Go To 👉 https://ShortnerFly.com/member/tools/api  
+1. Go To 👉 https://pdisk.pro/pages/api/  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api 17314dc708m0ed49fv97 `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Shortnerfly** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Pdiskpro** than **contact** at 👉 @Channelhubs (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Shortener Fly Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @Api_Link_Converter_bot. I am Shortener Fly Link Converter Bot.**
 
 **⚡Features⚡**
 
